@@ -1,0 +1,2 @@
+Run the executable inside the game inside the build folder and then the python executable. 
+Then try to run the game file that is in the same folder as this READ ME FIRST

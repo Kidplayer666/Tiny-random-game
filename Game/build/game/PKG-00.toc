@@ -1,0 +1,51 @@
+('C:\\Users\\Francisco '
+ 'Martins\\PycharmProjects\\untitled\\build\\game\\PKG-00.pkg',
+ {'BINARY': 1,
+  'DATA': 1,
+  'EXECUTABLE': 1,
+  'EXTENSION': 1,
+  'PYMODULE': 1,
+  'PYSOURCE': 1,
+  'PYZ': 0},
+ [('PYZ-00.pyz',
+   'C:\\Users\\Francisco '
+   'Martins\\PycharmProjects\\untitled\\build\\game\\PYZ-00.pyz',
+   'PYZ'),
+  ('struct',
+   'c:\\users\\francisco martins\\documents\\games\\python\\lib\\struct.pyo',
+   'PYMODULE'),
+  ('pyimod01_os_path',
+   'c:\\users\\francisco '
+   'martins\\documents\\games\\python\\lib\\site-packages\\PyInstaller\\loader\\pyimod01_os_path.pyc',
+   'PYMODULE'),
+  ('pyimod02_archive',
+   'c:\\users\\francisco '
+   'martins\\documents\\games\\python\\lib\\site-packages\\PyInstaller\\loader\\pyimod02_archive.pyc',
+   'PYMODULE'),
+  ('pyimod03_importers',
+   'c:\\users\\francisco '
+   'martins\\documents\\games\\python\\lib\\site-packages\\PyInstaller\\loader\\pyimod03_importers.pyc',
+   'PYMODULE'),
+  ('pyiboot01_bootstrap',
+   'c:\\users\\francisco '
+   'martins\\documents\\games\\python\\lib\\site-packages\\PyInstaller\\loader\\pyiboot01_bootstrap.py',
+   'PYSOURCE'),
+  ('pyi_rth__tkinter',
+   'C:\\Users\\Francisco '
+   'Martins\\Documents\\Games\\Python\\Lib\\site-packages\\PyInstaller\\loader\\rthooks\\pyi_rth__tkinter.py',
+   'PYSOURCE'),
+  ('pyi_rth_multiprocessing',
+   'C:\\Users\\Francisco '
+   'Martins\\Documents\\Games\\Python\\Lib\\site-packages\\PyInstaller\\loader\\rthooks\\pyi_rth_multiprocessing.py',
+   'PYSOURCE'),
+  ('game',
+   'C:\\Users\\Francisco Martins\\PycharmProjects\\untitled\\game.py',
+   'PYSOURCE'),
+  ('game.exe.manifest',
+   'C:\\Users\\Francisco '
+   'Martins\\PycharmProjects\\untitled\\build\\game\\game.exe.manifest',
+   'BINARY')],
+ True,
+ False,
+ False,
+ [])
