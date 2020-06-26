@@ -5,3 +5,5 @@ There's a Windows installer available on the other branch (untested) that should
 Any improvements or Feedback are deeply appreciated.
 I'm working on a Tkinter version to ensure better compatibility with pure python
 Enjoy! :-)
+Insert feedback either on the wiki or on here on the Read Me!
+Feedback:
